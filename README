@@ -1,0 +1,3 @@
+Project05 App that creates SQLite tables of Customers and Products from which Quotations can be generated,stored and sent.
+
+Sqlite tables [Products and Customers]can be added to/deleted from/Viewed/Created. App also has a currency function when complete.
